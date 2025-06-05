@@ -137,6 +137,7 @@ Un diagrama del modelo lógico de una base de datos muestra la estructura concep
 
 Para este proyecto el diagrama planteado es el siguiente: 
 
+
 ![diagrama_logico.drawio_page-0001](diagramas/diagrama_logico.drawio_page-0001.jpg)
 
 ## SCRIPTS SQL O COMANDOS UTILIZADOS PARA CREAR LA BASE DE DATOS Y LAS TABLAS 
